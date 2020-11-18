@@ -1,0 +1,24 @@
+body {
+    background: #d8d3d3;
+}
+.second-heading {
+    color: #1460aa;
+    text-align: center;
+}
+.first-heading {
+    text-align: center;
+    color: darkkhaki;
+}
+.navbar {
+    text-align: center;
+}
+a {
+    color: rgb(41, 19, 10);
+    text-decoration: none;
+    margin: 0 25px;
+}
+
+footer{
+    margin-top: 50px;
+    text-align: center;
+}

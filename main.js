@@ -1,0 +1,1 @@
+console.log('To ma być strona z notatkami ale nie lubię notować, więc wszędzie jest wypełniacz:D')
